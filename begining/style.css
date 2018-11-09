@@ -1,0 +1,20 @@
+
+
+#app{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-family: sans-serif;
+	padding-top:100px;
+}
+
+.box{
+	width:500px;
+	height:250px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
